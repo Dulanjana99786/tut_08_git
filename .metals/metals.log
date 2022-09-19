@@ -1,0 +1,2 @@
+2022.09.19 22:05:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\ASUS\Desktop\tut_8\.metals\lsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.19 22:05:43 INFO  logging to file C:\Users\ASUS\Desktop\tut_8\.metals\metals.log
